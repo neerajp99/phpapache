@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Flat Login Form</title>
+    <title>Your name | Fossasia</title>
     <link rel='stylesheet prefetch' href='http://daneden.github.io/animate.css/animate.min.css'>
     <link rel='stylesheet prefetch' href='http://fonts.googleapis.com/css?family=Roboto:400,100,400italic,700italic,700'>
     <link rel="stylesheet" href="css/style.css">
